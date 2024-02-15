@@ -1,3 +1,5 @@
+## Ingredientes
+
 3 cenouras médias
 3 ovos
 2 xícaras de açúcar
@@ -5,6 +7,8 @@
 2 xícaras de farinha de trigo
 1 pitada de sal
 1 colher de sopa de fermento químico
+
+## Modo de preparo 
 
 1. No liquidificador, coloque 3 cenouras médias, 3 ovos, 1 xícara de óleo de canola e 2 xícaras de açúcar. Bata até ficar homogêneo.
 2. Em uma tigela, coloque 2 xícaras de farinha de trigo, 1 pitada de sal e 1 colher de sopa de fermento químico. Misture.
